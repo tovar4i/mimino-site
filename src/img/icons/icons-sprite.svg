@@ -33,7 +33,7 @@
 </symbol>
 
 <symbol id="icon-menu" viewBox="0 0 32 32">
-<path d="M4 16h24M4 8h24M4 24h16"></path>
+<path stroke="#f7f7f7" d="M4 16h24M4 8h24M4 24h16"></path>
 </symbol>
 
 <symbol id="icon-twitter" viewBox="0 0 32 32">
