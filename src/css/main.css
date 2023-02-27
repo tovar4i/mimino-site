@@ -1,5 +1,6 @@
 /* utils */
 @import url('./utils/variables.css');
+@import url('./utils/visually-hidden.css');
 
 /* base */
 @import url('./base/fonts.css');
@@ -13,5 +14,6 @@
 
 /*layout */
 @import url('./layout/header.css');
+@import url('./layout/hero.css');
 
 /* pages */
