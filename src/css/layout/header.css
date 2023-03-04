@@ -2,7 +2,6 @@
 	width: 100%;
 	background-color: var(--dark);
 	color: var(--light);
-	/* position: relative; */
 	border-bottom: 0.5px solid rgba(247, 247, 247, 0.2);
 
 	position: fixed;
@@ -107,8 +106,6 @@
 	display: none;
 	/* display: flex; */
 }
-
-.social-list-item {}
 
 .social-link {
 	content: "";
