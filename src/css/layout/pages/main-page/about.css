@@ -1,0 +1,122 @@
+.about-complex {
+  background-color: var(--light);
+}
+
+.about-complex>.container {
+  padding-top: 80px;
+  padding-bottom: 80px;
+
+}
+
+.about-hotel-list {
+  position: relative;
+}
+
+.about-hotel-item {
+  margin-bottom: 20px;
+}
+
+.about-hotel-list .about-review {
+  position: absolute;
+  top: 420px;
+  right: 0;
+}
+
+.about-review {
+  width: 212px;
+  height: 61px;
+}
+
+.review-wprapper {
+  display: flex;
+  padding: 10px 14px;
+
+  background-color: var(--dark);
+  box-shadow: 1px 7px 22px rgba(0, 0, 0, 0.1);
+  border-radius: 6px;
+}
+
+.about-review-image-inner {
+  background-color: var(--dark);
+}
+
+.about-review-image {
+  width: 41px;
+  height: 41px;
+
+  border: none;
+  border-radius: 50%;
+}
+
+.about-review-caption-inner {
+  margin-left: 12px;
+}
+
+.reviewer-name {
+  font-weight: 500;
+  line-height: 1;
+  color: var(--light);
+
+  text-transform: capitalize;
+  margin-top: 2px;
+  margin-bottom: 7px;
+}
+
+.reviewer-action {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.3302;
+  color: var(--gray);
+  text-transform: lowercase;
+}
+
+.rate {
+  color: var(--light);
+}
+
+.about-business-class-hotel-list {
+  position: relative;
+}
+
+.about-business-class-hotel-list .about-review {
+  position: absolute;
+  top: 272px;
+  left: 0;
+}
+
+.about-complex-subtitle-text-wrapper {
+
+  margin-bottom: 64px;
+}
+
+
+
+.about-subtitle {
+  margin-top: 32px;
+  margin-bottom: 18px;
+
+  color: #484848;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: 0.18em;
+
+}
+
+.about-subtitle-text {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.29;
+  letter-spacing: -0.02em;
+
+  margin-bottom: 14px;
+}
+
+
+
+
+
+.about-busines-class-hotel-subtitle-text-wrapper {
+  margin-top: 54px;
+  margin-bottom: 40px;
+}

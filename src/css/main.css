@@ -14,7 +14,8 @@
 
 
 /*layout */
-@import url('./layout/header.css');
-@import url('./layout/hero.css');
+@import url('./layout/pages/header.css');
+@import url('./layout/pages/main-page/hero.css');
+@import url('./layout/pages/main-page/about.css');
 
 /* pages */

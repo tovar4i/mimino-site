@@ -11,7 +11,7 @@
   background-image: linear-gradient(180deg,
       rgba(0, 0, 0, 0) 70.73%,
       #121212 98.51%),
-    url(../../img/mobile/main-page/main-hero.jpg);
+    url(../../img/mobile/main-page/main-hero-1x.jpg);
   background-repeat: no-repeat;
   background-size: 335px 439px;
   background-position: center 118px;
@@ -74,7 +74,7 @@
     background-image: linear-gradient(180deg,
         rgba(0, 0, 0, 0) 70.73%,
         #121212 98.51%),
-      url(../../img/tablet/main-page/main-hero.jpg);
+      url(../../img/tablet/main-page/main-hero-1x.jpg);
     background-repeat: no-repeat;
     background-size: 572px 710px;
     background-position: center 128px;
@@ -125,7 +125,7 @@
     background-image: linear-gradient(180deg,
         rgba(0, 0, 0, 0) 70.73%,
         #121212 98.51%),
-      url(../../img/desktop/main-page/main-hero.jpg);
+      url(../../img/desktop/main-page/main-hero-1x.jpg);
     background-repeat: no-repeat;
     background-size: 542px 770px;
     background-position: right 0;
