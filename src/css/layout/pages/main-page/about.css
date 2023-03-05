@@ -20,6 +20,7 @@
   position: absolute;
   top: 420px;
   right: 0;
+  z-index: 5;
 }
 
 .about-review {
@@ -90,7 +91,6 @@
 }
 
 
-
 .about-subtitle {
   margin-top: 32px;
   margin-bottom: 18px;
@@ -112,11 +112,72 @@
   margin-bottom: 14px;
 }
 
-
-
-
-
 .about-busines-class-hotel-subtitle-text-wrapper {
   margin-top: 54px;
   margin-bottom: 40px;
+}
+
+@media screen and (min-width:768px) {
+
+  .about-hotel-item {
+    margin-bottom: 32px;
+  }
+
+  .about-hotel-list .about-review {
+    position: absolute;
+    top: 176px;
+    right: 122px;
+  }
+
+  .about-hotel-item:last-child {
+    position: absolute;
+    top: 209px;
+    right: 0;
+    z-index: 2;
+  }
+
+  .about-subtitle-text {
+    max-width: 472px;
+
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.33;
+  }
+
+  .about-complex-subtitle-text-wrapper {
+    margin-bottom: 80px;
+  }
+
+  .about-business-class-hotel-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 32px;
+  }
+
+  .img-one {
+    display: block;
+    margin-left: auto;
+    width: 530px;
+    margin-bottom: 40px;
+  }
+
+  .about-business-class-hotel-list .about-review {
+    position: absolute;
+    top: 303px;
+    left: 99px;
+  }
+
+  .about-busines-class-hotel-subtitle-text-wrapper {
+
+    max-width: 263px;
+    margin-left: auto;
+
+  }
+
+
+
+
+
+
+
 }
